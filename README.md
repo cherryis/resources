@@ -1,1 +1,1 @@
-# resoures.html
+# resources.html
