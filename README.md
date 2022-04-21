@@ -1,1 +1,1 @@
-# resources.html
+# Added sensor research page into WebRoot folder
